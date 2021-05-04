@@ -46,7 +46,7 @@
         "lodash": "~4.17.14",
         "main-bower-files": "~2.13.1",
         "merge-stream": "~0.1.7",
-        "require-dir": "~0.3.0",
+        "require-dir": "~1.2.0",
         "uglify-save-license": "~0.4.1",
         "wiredep": "~4.0.0",
         "wrench": "~1.5.8",
